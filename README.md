@@ -1,2 +1,2 @@
-# DL_assingments
+# DL_Assignments
 deep learning assignments 
